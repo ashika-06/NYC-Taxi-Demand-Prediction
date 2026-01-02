@@ -1,7 +1,7 @@
 # NYC-Taxi-Demand-Prediction
 Predicting taxi demand in NYC using K-Means clustering for location segmentation and applying XGBoost for time-series forecasting to optimize fleet management.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_TO_YOUR_NOTEBOOK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashika-06/NYC-Taxi-Demand-Prediction/blob/main/TAXIDEMAND.ipynb)
 
 ## Project Overview
 This project applies Machine Learning to historical taxi trip data to predict the number of pickups in specific regions of NYC for the next 10-minute interval. Accurate forecasting helps in efficient fleet management, reducing wait times, and balancing supply with demand.
