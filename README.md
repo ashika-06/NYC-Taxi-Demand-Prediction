@@ -19,7 +19,7 @@ This project applies Machine Learning to historical taxi trip data to predict th
 ## Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Dask (for large datasets), XGBoost, Folium (for map visualization).
-* **Data Source:** NYC TLC Trip Record Data (Yellow Taxi).
+* **Data Source:** [NYC Yellow Taxi Trip Data (Kaggle)](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 
 ## How to Run
 The notebook is pre-rendered, so you can view all graphs, cluster maps, and predictions immediately without running the code.
